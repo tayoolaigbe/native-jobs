@@ -5,7 +5,7 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 ## 🚀 How to use
 A React Native jobs applictaion app.
 
-To use please scan barcode on an android device
+To use please scan barcode on an android device after installing Expo Go
 
 
 ![Screenshot 2023-06-11 195439](https://github.com/tayoolaigbe/native-jobs/assets/48358258/26bfb680-8654-40bf-99f8-a38f893a8e82)
